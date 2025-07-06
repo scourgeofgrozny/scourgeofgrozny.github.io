@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on scourgeofgrozny</title>
+    <link>http://localhost:1313/categories/blog/</link>
+    <description>Recent content in Blog on scourgeofgrozny</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>http://localhost:1313/post/2025/07/06/introduction/</link>
+      <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2025/07/06/introduction/</guid>
+      <description>&lt;p&gt;Hi! My name is scourgeofgrozny, I&amp;rsquo;m a computer science student who tends to procrastinate a lot. I&amp;rsquo;ve been trying to get into fansub-related work as of late (which has proven difficult due to my lack of a setup and my stubborness at spending money), but you can find my work &lt;a href=&#34;https://nyaa.si/?f=0&amp;amp;c=0_0&amp;amp;q=scourgeofgrozny&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;If you want to get in touch, the quickest way to do so would be through Discord via DM (scour.ge). Whether it be an actual question or something like an anime recommendation, feel free to send me something haha&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

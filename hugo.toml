@@ -1,0 +1,25 @@
+baseURL = "https://scourgeofgrozny.github.io/"
+languageCode = "en-us"
+title = "scourgeofgrozny"
+theme = "hugo-classic"
+
+[permalinks]
+post = "/post/:year/:month/:day/:slug/"
+
+[[menu.main]]
+name = "Categories"
+url = "/categories/"
+weight = 1
+
+[[menu.main]]
+name = "Tags"
+url = "/tags/"
+weight = 2
+
+[[menu.feed]]
+name = "github"
+url = "https://github.com/scourgeofgrozny"
+
+[[menu.feed]]
+name = "subscribe"
+url = "/index.xml"
